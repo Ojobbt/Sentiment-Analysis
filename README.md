@@ -35,7 +35,7 @@ This project performs sentiment analysis on Amazon product reviews using Python 
 5. **Visualization**
    - Generates a word cloud of the most frequent words.
 
-6. **Train-Test_Split
+6. **Train-Test_Split**
    - Data were seprated into two sunsets to ensure that the model can be trained on one part (training set) and tested on another part (testing set).
 
 7. **Feature Extraction**
